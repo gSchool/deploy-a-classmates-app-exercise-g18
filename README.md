@@ -22,7 +22,7 @@ __STUDENT LIST HERE:__
 * Taylor - https://restaurants-patpat.herokuapp.com/foods
 * Teisia - https://restaurants-helene.herokuapp.com
 * Aubrey
-* Sean
+* Sean - https://limitless-headland-4057.herokuapp.com/restaurants
 * June 
 * Josh Sparks
 * Josh Silverstein
