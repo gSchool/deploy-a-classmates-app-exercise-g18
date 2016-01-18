@@ -23,16 +23,13 @@ __STUDENT LIST HERE:__
 * Teisia - https://restaurants-helene.herokuapp.com
 * Aubrey
 * Sean
-* June 
+* June
 * Josh Sparks
-* Josh Silverstein
+* Josh Silverstein - https://intense-badlands-5269.herokuapp.com/restaurants
 * Helene
-* Pat Dullano 
+* Pat Dullano
 * Tony
-* April 
+* April
 * Nico
 * Stu
 * Mikel
-
-
-
