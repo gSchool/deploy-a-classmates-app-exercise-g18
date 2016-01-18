@@ -6,7 +6,6 @@ __EXAMPLE:__
 
 1. Martha - some-heroku-link
 
+
 __STUDENT LIST HERE:__
-
-
-
+1. Patrick B. mikechowhall.herokuapp.com
