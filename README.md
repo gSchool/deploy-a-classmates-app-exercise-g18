@@ -29,7 +29,6 @@ __STUDENT LIST HERE:__
 * Helene https://rocky-mountain-4476.herokuapp.com/
 * Pat Dullano 
 * Tony - https://aqueous-coast-2284.herokuapp.com/
-* April 
 * Nico
 * Stu
 * Mikel
