@@ -23,16 +23,13 @@ __STUDENT LIST HERE:__
 * Teisia - https://restaurants-helene.herokuapp.com
 * Aubrey
 * Sean
-* June 
+* June
 * Josh Sparks
 * Josh Silverstein
 * Helene
-* Pat Dullano 
-* Tony
-* April 
+* Pat Dullano
+* Tony - https://aqueous-coast-2284.herokuapp.com/
+* April
 * Nico
 * Stu
 * Mikel
-
-
-
