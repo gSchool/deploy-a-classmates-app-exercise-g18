@@ -4,9 +4,6 @@ __When you have successfully deployed your assigned app, add your name and Herok
 
 __EXAMPLE:__
 
-1. Martha - some-heroku-link
+1. Rachel Parri - git@github.com:Erachelparri/deploy-a-classmates-app-exercise-g18.git
 
 __STUDENT LIST HERE:__
-
-
-
