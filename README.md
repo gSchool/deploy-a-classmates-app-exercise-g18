@@ -5,8 +5,6 @@ __When you have successfully deployed your assigned app, add your name and Herok
 __EXAMPLE:__
 
 1. Martha - some-heroku-link
+2. bryce - git@github.com: https://mighty-refuge-4340.herokuapp.com/zagat
 
 __STUDENT LIST HERE:__
-
-
-
