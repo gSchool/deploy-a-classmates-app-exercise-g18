@@ -4,9 +4,6 @@ __When you have successfully deployed your assigned app, add your name and Herok
 
 __EXAMPLE:__
 
-1. Martha - some-heroku-link
+1. Brandon deploying bryces app -- https://pacific-brook-6995.herokuapp.com/restaurants/index
 
 __STUDENT LIST HERE:__
-
-
-
