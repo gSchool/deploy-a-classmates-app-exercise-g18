@@ -5,7 +5,7 @@ __When you have successfully deployed your assigned app, add your name and Herok
 __EXAMPLE:__
 
 1. Martha - some-heroku-link
-
+2. Scott Christensen - https://obscure-cove-5536.herokuapp.com/
 __STUDENT LIST HERE:__
 
 
