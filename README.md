@@ -21,14 +21,14 @@ __STUDENT LIST HERE:__
 * Ben - https://radiant-dusk-6912.herokuapp.com/
 * Taylor - https://restaurants-patpat.herokuapp.com/foods
 * Teisia - https://restaurants-helene.herokuapp.com
-* Aubrey
-* Sean
+* Aubrey - https://corey-restaurants.herokuapp.com
+* Sean - https://limitless-headland-4057.herokuapp.com/restaurants
 * June 
-* Josh Sparks
-* Josh Silverstein
-* Helene
+* Josh Sparks https://shielded-temple-3364.herokuapp.com/restaurants/
+* Josh Silverstein https://intense-badlands-5269.herokuapp.com/restaurants
+* Helene https://rocky-mountain-4476.herokuapp.com/
 * Pat Dullano 
-* Tony
+* Tony - https://aqueous-coast-2284.herokuapp.com/
 * April 
 * Nico
 * Stu
