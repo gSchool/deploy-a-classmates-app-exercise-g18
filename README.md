@@ -24,7 +24,7 @@ __STUDENT LIST HERE:__
 * Aubrey
 * Sean
 * June 
-* Josh Sparks
+* Josh Sparks https://shielded-temple-3364.herokuapp.com/restaurants/
 * Josh Silverstein
 * Helene
 * Pat Dullano 
