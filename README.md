@@ -23,15 +23,12 @@ __STUDENT LIST HERE:__
 * Teisia - https://restaurants-helene.herokuapp.com
 * Aubrey - https://corey-restaurants.herokuapp.com
 * Sean - https://limitless-headland-4057.herokuapp.com/restaurants
-* June 
+* June
 * Josh Sparks https://shielded-temple-3364.herokuapp.com/restaurants/
 * Josh Silverstein https://intense-badlands-5269.herokuapp.com/restaurants
 * Helene https://rocky-mountain-4476.herokuapp.com/
-* Pat Dullano 
+* Pat Dullano
 * Tony - https://aqueous-coast-2284.herokuapp.com/
 * Nico
-* Stu
+* Stu - https://arcane-fortress-3599.herokuapp.com/
 * Mikel
-
-
-
